@@ -10,7 +10,6 @@ how to add the vscode codes to GitHub
  create new repo into GitHub on your account with + option into you GitHub account
 install the git into windows machine with below commd:
 winget install --id Git.Git -e --source winget
-
 git init
 git add .
 git config --global user.name "Rahul Kumar"
